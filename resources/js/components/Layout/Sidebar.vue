@@ -8,14 +8,14 @@ import { Link } from '@inertiajs/vue3';
         <!-- Logo -->
         <div class="mb-10 px-2">
             <div class="text-xl font-bold italic flex items-center mb-2">
-                <div class="bg-gray-800 text-green-400 px-3 py-1 font-black">Karr</div>
-                <div class="bg-green-500 text-white px-3 py-1 font-black">Kraft</div>
+                <div class="bg-gray-800 text-green-400 px-3 py-1 font-black">Car</div>
+                <div class="bg-green-500 text-white px-3 py-1 font-black">Garage</div>
             </div>
         </div>
 
         <!-- Navigation -->
         <nav class="flex-1 space-y-3">
-            <Link href="/"
+            <Link href="/dashboard"
                 class="flex items-center gap-4 text-gray-500 hover:bg-gray-50 px-4 py-3 rounded-xl font-medium transition-colors border border-transparent hover:border-gray-100">
                 <!-- Dashboard Icon -->
                 <svg class="w-5 h-5 text-green-500" fill="currentColor" viewBox="0 0 20 20">
